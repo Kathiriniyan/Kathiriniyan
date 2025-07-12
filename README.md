@@ -50,7 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathiriniyan&layout=compact&theme=tokyonight&hide=php" height="180"/>
 </p>
 
-> 📝 *Note: If PHP still shows up, push more React code or pin relevant repos.*
 
 ---
 
@@ -79,6 +78,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Code.+Build.+Break.+Learn.;Fueling+the+future+with+code...+🔥" alt="Typing SVG" />
-</p>
+
