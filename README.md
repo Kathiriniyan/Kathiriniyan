@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats (React is used most, but showing PHP may be cached)
+###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kathiriniyan&show_icons=true&theme=tokyonight" height="180"/>
