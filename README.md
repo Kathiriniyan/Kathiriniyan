@@ -38,37 +38,60 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   </a>
+
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   </a>
+
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
+  </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+  </a>
+
   <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" />
   </a>
+
   <a href="https://react.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" />
   </a>
+
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   </a>
+
   <a href="https://expressjs.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=express&theme=dark" />
   </a>
+
   <a href="https://nextjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" />
   </a>
+
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
   </a>
+
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  </a>
+
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
   </a>
+
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
   </a>
 </p>
+
 
 
 ---
