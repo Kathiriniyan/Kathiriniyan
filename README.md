@@ -1,48 +1,84 @@
 <h1 align="center">Hi, I'm Kathiriniyan 👋</h1>
-<h3 align="center">Final Year Software Engineering Undergraduate • Focused on Data Engineering • Sri Lanka 🇱🇰</h3>
+<h3 align="center">Final Year Software Engineering Undergraduate • Data Engineering Focus • Sri Lanka 🇱🇰</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/baleandran-kathiriniyan-5b79831b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kathir200318@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Final Year** Computer Software Engineering undergraduate  
-- 📊 Currently studying **Data Engineering**  
+- 📊 Currently focused on **Data Engineering**
 - 🧑‍💻 Built **React + TypeScript** systems: **CRM • HRM • ERP**
-- 🧠 Strong foundation in **backend + databases + modern web**
-- 🏗️ Currently working on a **startup**
-- 🌐 First live project: **djsuguna.lk**
-- 🤝 Open to **internships, collaborations & real-world projects**
+- 🏗️ Currently working with a **startup**
+- 🌐 First live deployed project: **djsuguna.lk**
+- 🤝 Open to **internships, collaborations & impactful projects**
+- 💡 Passionate about solving **real-world civic & social problems**
+
+---
+
+## ⭐ Featured Work
+
+- 🌐 **djsuguna.lk** — Production-ready live web application  
+- 🧩 **CRM / HRM / ERP Systems**  
+  - Role-based access  
+  - Dashboards & workflows  
+  - Scalable frontend architecture  
+- 🔧 **Backend & Databases**  
+  - REST APIs with Node.js & Express  
+  - SQL & NoSQL database design  
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,express,nextjs,sql,postgres,mongodb,tailwind&perline=6" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kathiriniyan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathiriniyan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" />
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  </a>
 </p>
+
 
 ---
 
 ## 🎯 2026 Goals (Data Engineering)
 
-- ✅ Build **ETL pipelines** using Python + SQL (batch + incremental loads)
-- ✅ Learn **Data Warehousing** concepts (star schema, dimensional modeling, OLAP)
-- ✅ Practice **Big Data tools** (Spark fundamentals + distributed processing)
-- ✅ Build & publish **one Data Engineering portfolio project** with documentation
+- 🚀 Design & build **ETL pipelines** using Python & SQL  
+- 🏗️ Learn **Data Warehousing** (Star Schema, Dimensional Modeling)  
+- ⚡ Gain hands-on experience with **Big Data & Distributed Systems**  
+- 📦 Publish **one end-to-end Data Engineering project** with clear documentation  
 
 ---
 
@@ -50,13 +86,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baleandran-kathiriniyan-5b79831b4/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kathir200318@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-kathir200318%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+
+
 <p align="center">
-  <em>Let’s build something impactful — products that solve real-world problems.</em>
+  <em>Let’s build something impactful — clean systems, real data, real value.</em>
 </p>
