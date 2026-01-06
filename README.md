@@ -35,59 +35,67 @@
 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
   </a>
 
   <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
   </a>
 
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" />
   </a>
 
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" />
   </a>
 
   <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
   </a>
 
   <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
   </a>
 
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
   </a>
 
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" />
   </a>
 
   <a href="https://nextjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" />
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
   </a>
 
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
   </a>
 
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
   </a>
 
   <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
   </a>
 
   <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" />
   </a>
 </p>
 
